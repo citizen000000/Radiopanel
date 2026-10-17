@@ -8,7 +8,7 @@
 
 
 1. Put `autoexec.cfg` in `cstrike\cfg\` (merge with your own if you already have one)
-2. Copy `cstrike_english.txt` and put it in `\cstrike\custom\%CUSTOMHUD%\resource`
+2. Copy `cstrike_english.txt` and put it in `\cstrike\custom\%CUSTOMHUD%\resource\`
 
 
 ## Info
@@ -28,7 +28,8 @@ Only English is included. For other languages, edit the matching file in `\cstri
 ## Known issues
 
 - **Slot limit:** 6 / 6 / 9, No way around it. 
-- **High ping + server menus:** Slim chance binds can execute instead of the menu selection (seen once in ~12 hours).
+- **High ping + server menus:** Slim chance binds can execute instead of the menu selection
+  (seen once in ~12 hours).
 
 If it breaks ask claude or something ◡̈
 
