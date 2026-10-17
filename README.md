@@ -13,9 +13,9 @@
 
 ## Info
 
-Edit any command in autoexec as you wish, same with the in-game text.
-In game UI works off "RadioA" "RadioB" "RadioC" in cstrike_english.txt
-Works with KSF Commands (sm_) or any console command ("say ╭∩╮(◣_◢)╭∩╮")
+Edit any command in autoexec as you wish, same with the in-game text.  
+In game UI works off "RadioA" "RadioB" "RadioC" in cstrike_english.txt.  
+Works with KSF Commands (sm_) or any console command ("say ╭∩╮(◣_◢)╭∩╮")  
 
 Keep syntax & aliases the same otherwise it breaks ╮(ˆ𐃷ˆ)╭
 
